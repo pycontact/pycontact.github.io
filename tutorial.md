@@ -1,5 +1,8 @@
 ---
 layout: page
-title:  Tutorial
+title: Tutorial
 ---
+
+Template for Tutorial page
+
 ## Tutorial
