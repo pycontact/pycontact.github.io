@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+permalink: pretty
+
+title: PyContact
+name:  PyContact
+tagline: A Tool for Analysis of Non-Covalent Interactions in MD trajectories
+description: A Tool for Analysis of Non-Covalent Interactions in MD trajectories
+author:
+        name: Maximilian Scheurer
+        email: pycontact22@gmail.com
+
+gems:
+  - jekyll-paginate
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+
+github:
+        repo:   https://github.com/maxscheurer/pycontact
+
+
