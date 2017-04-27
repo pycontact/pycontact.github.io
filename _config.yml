@@ -8,7 +8,7 @@ description: A Tool for Analysis of Non-Covalent Interactions in MD trajectories
 author:
         name: Maximilian Scheurer
         email: pycontact22@gmail.com
-
+baseurl: /
 gems:
   - jekyll-paginate
   - jekyll-mentions
@@ -16,4 +16,4 @@ gems:
   - jekyll-feed
 
 github:
-        repo:   https://github.com/maxscheurer/pycontact
+  repo:   https://github.com/maxscheurer/pycontact
