@@ -17,5 +17,6 @@ DOI: https://doi.org/10.1016/j.bpj.2017.12.003
 
 ## Scientific Successes
 
-- [Molecular Mechanism of Flavin Photoprotection by Archaeal Dodecin: Photoinduced Electron Transfer and Mg2+-Promoted Proton Transfer](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.7b08597)
-- [Computational reconstruction reveals a candidate magnetic biocompass to be likely irrelevant for magnetoreception](https://www.nature.com/articles/s41598-017-13258-7)
+- [Molecular mechanism of extreme mechanostability in a pathogen adhesin](http://science.sciencemag.org/content/359/6383/1527), _Lukas F. Milles, Klaus Schulten, Hermann E. Gaub, and Rafael C. Bernardi, Science 2018_
+- [Molecular Mechanism of Flavin Photoprotection by Archaeal Dodecin: Photoinduced Electron Transfer and Mg2+-Promoted Proton Transfer](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.7b08597), _Maximilian Scheurer, Daria Brisker-Klaiman, and Andreas Dreuw, J. Phys. Chem. B 2017_
+- [Computational reconstruction reveals a candidate magnetic biocompass to be likely irrelevant for magnetoreception](https://www.nature.com/articles/s41598-017-13258-7), _Ida Friis, Emil Sjulstok, and Ilia A. Solov’yov, Sci. Rep. 2017_
